@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-blog/static/css/main.f01dfb00.css",
+    "main.js": "/react-blog/static/js/main.6464cf0c.js",
+    "static/media/c.png": "/react-blog/static/media/c.abd784d9a0e2270ebefb.png",
+    "static/media/logo.png": "/react-blog/static/media/logo.669517800fbd96cd338b.png",
+    "index.html": "/react-blog/index.html",
+    "main.f01dfb00.css.map": "/react-blog/static/css/main.f01dfb00.css.map",
+    "main.6464cf0c.js.map": "/react-blog/static/js/main.6464cf0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01dfb00.css",
+    "static/js/main.6464cf0c.js"
+  ]
+}
